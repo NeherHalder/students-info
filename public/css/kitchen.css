@@ -1,0 +1,137 @@
+.color-primary{
+    color: #AD1457;
+}
+
+.round{
+    border-radius: 4px;
+}
+.side-view{
+    margin-top: 3em;
+}
+.small-tag{
+    font-size: 13px;
+}
+
+.category-name{
+    margin-top: 5px;
+    font-weight: 700;
+}
+
+.cart-form{
+    width: 80px; 
+    display: inline; 
+    padding: 2px; 
+    border-radius:4px; 
+    text-align: center;
+}
+
+.category-side{
+    padding: 0px;
+}
+
+.container-fluid2{
+    width: 87%;
+}
+.sorting{
+    margin-bottom: 5px; 
+    padding-right: 5px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    #manage_qty{
+        display: inline-block;
+        float: right;
+    }
+    #manage_qty_btn{
+        margin-top: 3px;
+    }
+    #design_by{
+    	display: none;
+    }
+    .sorting{
+        padding-right: 0px;
+    }
+
+    .category-side{
+        padding: 15px;
+    }	        
+    .alert-success{
+		color: #fff;
+		background-color: #AD1457;
+	}	 
+
+    .bootstrap-tab-text-grid-right {
+        width: 88%;
+    }  
+
+    .side-view{
+        margin-top: 1em;
+    }
+    .product-googles-info {
+        padding: 4px;
+    }   
+
+    .container-fluid {
+        padding-right: 5px;
+        padding-left: 5px;
+    }  
+    .container-fluid2{
+        width: 100%;
+    }
+}
+.dropdown-menu {  
+	top: 20px;
+    left: -84px;
+    min-width: 7rem;    
+    color: #AD1457;  
+}
+
+.dropdown-menu > li> a{  
+    color: #AD1457;  
+    margin-left: 5px;
+    position: relative;
+    left: -5px;
+    border-radius: 4px; 
+    border-bottom: 1px solid #ddd;
+}
+
+.login-input{
+    border-radius: 4px; 
+}
+
+.login-finish{
+    border-radius: 4px;
+    color: #AD1457;   
+}
+
+.login-button{
+    border-radius: 4px;
+    background-color: #AD1457;   
+    box-shadow: none;
+}
+
+.profile-info{
+    background: #f7f7f7;
+    border: 1px solid #ebeeef;
+    padding: 8px;
+}
+
+.w_nav {
+    float: right;
+    color: #555555;
+    font-size: 0.8125em;
+    padding: 0;
+    list-style: none;
+}
+.w_nav li {
+    display: inline-block;
+}
+
+.w_nav li a{
+    color: #AD1457;
+}
+
+
+
+
+    
