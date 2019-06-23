@@ -1,6 +1,4 @@
-@extends('frontend.master')
-
-@section('content')
+@extends('frontend.master') @section('content')
 
 <section class="banner-bottom-wthreelayouts py-3 py-5">
     <div class="container">
@@ -75,6 +73,10 @@
                         <li>Quiz Game Learner Android App: <a href="https://play.google.com/store/apps/details?id=com.neher.ecl.learningapplication" target="_blank">https://play.google.com/store/apps/details?id=com.neher.ecl.learningapplication</a></li>
 
                         <li>
+                            Laravel Package Development:<a href="https://packagist.org/packages/neher-halder/inquiry" target="_blank">https://packagist.org/packages/neher-halder/inquiry</a>
+                        </li>
+
+                        <li>
                             Sample code:<a href="http://sample.bdrannaghar.com" target="_blank">http://sample.bdrannaghar.com</a>
                         </li>
 
@@ -82,7 +84,6 @@
                             Sample code Github:<a href="https://github.com/NeherHalder/students-info" target="_blank">https://github.com/NeherHalder/students-info</a>
                         </li>
 
-                        
                     </ol>
                 </div>
             </div>
